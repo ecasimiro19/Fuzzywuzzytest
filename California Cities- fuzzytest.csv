@@ -1,0 +1,483 @@
+﻿County,pol1,pol2
+Alameda,Alameda,1
+Alameda,Albany,1
+Alameda,Berkeley,1
+Alameda,Dublin,0
+Alameda,Emeryville,1
+Alameda,Fremont,1
+Alameda,Hayward,1
+Alameda,Livermore,0
+Alameda,Newark,1
+Alameda,Oakland,1
+Alameda,Piedmont,1
+Alameda,Pleasanton,0
+Alameda,San Leandro,1
+Alameda,Union City,1
+Amador,Amador City,0
+Amador,Ione,0
+Amador,Jackson,0
+Amador,Plymouth,0
+Amador,Sutter Creek,0
+Butte ,Biggs,0
+Butte ,Chico,0
+Butte ,Gridley,0
+Butte ,Oroville,0
+Butte ,Paradise,0
+Calaveras ,Angels Camp,0
+Colusa,Colusa,0
+Colusa,Williams,0
+Contra Costa,Antioch,0
+Contra Costa,Brentwood,0
+Contra Costa,Clayton,0
+Contra Costa,Concord,1
+Contra Costa,Danville,0
+Contra Costa,El Cerrito,1
+Contra Costa,Hercules,0
+Contra Costa,Lafayette,0
+Contra Costa,Martinez,1
+Contra Costa,Moraga,0
+Contra Costa,Oakley,0
+Contra Costa,Orinda,0
+Contra Costa,Pinole,0
+Contra Costa,Pittsburg,0
+Contra Costa,Pleasant Hill,1
+Contra Costa,Richmond,1
+Contra Costa,San Pablo,1
+Contra Costa,San Ramon,0
+Contra Costa,Walnut Creek,0
+Del Norte,Crescent City,0
+El Dorado,Placerville,0
+El Dorado,South Lake Tahoe,0
+Fresno,Clovis,0
+Fresno,Coalinga,0
+Fresno,Firebaugh,0
+Fresno,Fowler,0
+Fresno,Fresno,0
+Fresno,Huron,0
+Fresno,Kerman,0
+Fresno,Kingsburg,0
+Fresno,Mendota,0
+Fresno,Orange Cove,0
+Fresno,Parlier,0
+Fresno,Reedley,0
+Fresno,Sanger,0
+Fresno,San Joaquin,0
+Fresno,Selma,1
+Glenn,Orland,0
+Glenn,Willows,1
+Humboldt,Arcata,1
+Humboldt,Blue Lake,0
+Humboldt,Eureka,0
+Humboldt,Ferndale,0
+Humboldt,Fortuna,0
+Humboldt,Rio Dell,0
+Humboldt,Trinidad,0
+Imperial ,Brawley,0
+Imperial ,Calexico,0
+Imperial ,Calipatria,0
+Imperial ,El Centro,0
+Imperial ,Holtville,0
+Imperial ,Imperial,1
+Imperial ,Westmorland,0
+Inyo,Bishop,0
+Kern,Arvin,0
+Kern,Bakersfield,0
+Kern,California City,1
+Kern,Delano,0
+Kern,Maricopa,0
+Kern,McFarland,0
+Kern,Ridgecrest,1
+Kern,Shafter,0
+Kern,Taft,0
+Kern,Tehachapi,1
+Kern,Wasco,0
+Kings,Avenal,0
+Kings,Corcoran,0
+Kings,Hanford,1
+Kings,Lemoore,0
+Lake,Clearlake,0
+Lake,Lakeport,0
+Lassen,Susanville,0
+Los Angeles,Agoura Hills,0
+Los Angeles,Alhambra,0
+Los Angeles,Arcadia,0
+Los Angeles,Artesia,0
+Los Angeles,Avalon,0
+Los Angeles,Azusa,0
+Los Angeles,Baldwin Park,1
+Los Angeles,Bell,0
+Los Angeles,Bellflower,0
+Los Angeles,Bell Gardens,0
+Los Angeles,Beverly Hills,0
+Los Angeles,Bradbury,0
+Los Angeles,Burbank,0
+Los Angeles,Calabasas,0
+Los Angeles,Carson,0
+Los Angeles,Cerritos,0
+Los Angeles,Claremont,1
+Los Angeles,Commerce,0
+Los Angeles,Compton,0
+Los Angeles,Covina,0
+Los Angeles,Cudahy,1
+Los Angeles,Culver City,1
+Los Angeles,Diamond Bar,0
+Los Angeles,Downey,0
+Los Angeles,Duarte,0
+Los Angeles,El Monte,0
+Los Angeles,El Segundo,0
+Los Angeles,Gardena,0
+Los Angeles,Glendale,1
+Los Angeles,Glendora,0
+Los Angeles,Hawaiian Gardens,0
+Los Angeles,Hawthorne,0
+Los Angeles,Hermosa Beach,0
+Los Angeles,Hidden Hills,0
+Los Angeles,Huntington Park,0
+Los Angeles,Industry,0
+Los Angeles,Inglewood,0
+Los Angeles,Irwindale,0
+Los Angeles,La Canada Flintridge,0
+Los Angeles,La Habra Heights,0
+Los Angeles,Lakewood,0
+Los Angeles,La Mirada,0
+Los Angeles,Lancaster,1
+Los Angeles,La Puente,1
+Los Angeles,La Verne,0
+Los Angeles,Lawndale,0
+Los Angeles,Lomita,0
+Los Angeles,Long Beach,1
+Los Angeles,Los Angeles,1
+Los Angeles,Lynwood,0
+Los Angeles,Malibu,1
+Los Angeles,Manhattan Beach,0
+Los Angeles,Maywood,1
+Los Angeles,Monrovia,0
+Los Angeles,Montebello,0
+Los Angeles,Monterey Park,1
+Los Angeles,Norwalk,0
+Los Angeles,Palmdale,0
+Los Angeles,Palos Verdes Estates,0
+Los Angeles,Paramount,0
+Los Angeles,Pasadena,1
+Los Angeles,Pico Rivera,0
+Los Angeles,Pomona,1
+Los Angeles,Rancho Palos Verdes,0
+Los Angeles,Redondo Beach,0
+Los Angeles,Rolling Hills,0
+Los Angeles,Rolling Hills Estates,0
+Los Angeles,Rosemead,0
+Los Angeles,San Dimas,0
+Los Angeles,San Fernando,0
+Los Angeles,San Gabriel,1
+Los Angeles,San Marino,0
+Los Angeles,Santa Clarita,1
+Los Angeles,Santa Fe Springs,0
+Los Angeles,Santa Monica,1
+Los Angeles,Sierra Madre,0
+Los Angeles,Signal Hill,0
+Los Angeles,South El Monte,0
+Los Angeles,South Gate,0
+Los Angeles,South Pasadena,1
+Los Angeles,Temple City,0
+Los Angeles,Torrance,0
+Los Angeles,Vernon,0
+Los Angeles,Walnut,0
+Los Angeles,West Covina,0
+Los Angeles,West Hollywood,1
+Los Angeles,Westlake Village,0
+Los Angeles,Whittier,0
+Madera,Chowchilla,0
+Madera,Madera,0
+Marin,Belvedere,0
+Marin,Corte Madera,0
+Marin,Fairfax,0
+Marin,Larkspur,0
+Marin,Mill Valley,1
+Marin,Novato,0
+Marin,Ross,0
+Marin,San Anselmo,0
+Marin,San Rafael,1
+Marin,Sausalito,0
+Marin,Tiburon,0
+Mendocino,Fort Bragg,0
+Mendocino,Point Arena,0
+Mendocino,Ukiah,0
+Mendocino,Willits,0
+Merced,Atwater,0
+Merced,Dos Palos,0
+Merced,Gustine,0
+Merced,Livingston,1
+Merced,Los Banos,0
+Merced,Merced,0
+Modoc,Alturas,0
+Mono,Mammoth Lakes,0
+Monterey,Carmel-by-the-Sea,0
+Monterey,Del Rey Oaks,0
+Monterey,Gonzales,0
+Monterey,Greenfield,1
+Monterey,King City,0
+Monterey,Marina,0
+Monterey,Monterey,0
+Monterey,Pacific Grove,0
+Monterey,Salinas,1
+Monterey,Sand City,0
+Monterey,Seaside,1
+Monterey,Soledad,1
+Napa,American Canyon,0
+Napa,Calistoga,0
+Napa,Napa,0
+Napa,St. Helena,0
+Napa,Yountville,0
+Nevada,Grass Valley,0
+Nevada,Nevada City,0
+Nevada,Truckee,0
+Orange,Aliso Viejo,1
+Orange,Anaheim,1
+Orange,Brea,0
+Orange,Buena Park,0
+Orange,Costa Mesa,1
+Orange,Cypress,0
+Orange,Dana Point,1
+Orange,Fountain Valley,0
+Orange,Fullerton,0
+Orange,Garden Grove,1
+Orange,Huntington Beach,1
+Orange,Irvine,0
+Orange,Laguna Beach,0
+Orange,Laguna Hills,0
+Orange,Laguna Niguel,1
+Orange,Laguna Woods,0
+Orange,La Habra,0
+Orange,Lake Forest,1
+Orange,La Palma,0
+Orange,Los Alamitos,1
+Orange,Mission Viejo,1
+Orange,Newport Beach,1
+Orange,Orange,1
+Orange,Placentia,0
+Orange,Rancho Santa Margarita,0
+Orange,San Clemente,0
+Orange,San Juan Capistrano,1
+Orange,Santa Ana,1
+Orange,Seal Beach,0
+Orange,Stanton,0
+Orange,Tustin,1
+Orange,Villa Park,1
+Orange,Westminster,0
+Orange,Yorba Linda,0
+Placer,Auburn,0
+Placer,Colfax,0
+Placer,Lincoln,1
+Placer,Loomis,0
+Placer,Rocklin,0
+Placer,Roseville,0
+Plumas,Portola,0
+Riverside,Banning,0
+Riverside,Beaumont,1
+Riverside,Blythe,0
+Riverside,Calimesa,0
+Riverside,Canyon Lake,0
+Riverside,Cathedral City,1
+Riverside,Coachella,1
+Riverside,Corona,1
+Riverside,Desert Hot Springs,0
+Riverside,Eastvale,0
+Riverside,Hemet,1
+Riverside,Indian Wells,0
+Riverside,Indio,0
+Riverside,Jurupa Valley,0
+Riverside,Lake Elsinore,1
+Riverside,La Quinta,0
+Riverside,Menifee,0
+Riverside,Moreno Valley,0
+Riverside,Murrieta,1
+Riverside,Norco,0
+Riverside,Palm Desert,0
+Riverside,Palm Springs,1
+Riverside,Perris,0
+Riverside,Rancho Mirage,0
+Riverside,Riverside,0
+Riverside,San Jacinto,1
+Riverside,Temecula,1
+Riverside,Wildomar,1
+Sacramento,Citrus Heights,0
+Sacramento,Elk Grove,0
+Sacramento,Folsom,0
+Sacramento,Galt,0
+Sacramento,Isleton,0
+Sacramento,Rancho Cordova,0
+Sacramento,Sacramento,1
+San Benito,Hollister,0
+San Benito,San Juan Bautista,0
+San Bernardino,Adelanto,0
+San Bernardino,Apple Valley,1
+San Bernardino,Barstow,0
+San Bernardino,Big Bear Lake,0
+San Bernardino,Chino,0
+San Bernardino,Chino Hills,0
+San Bernardino,Colton,0
+San Bernardino,Fontana,0
+San Bernardino,Grand Terrace,0
+San Bernardino,Hesperia,0
+San Bernardino,Highland,1
+San Bernardino,Loma Linda,0
+San Bernardino,Montclair,0
+San Bernardino,Needles,0
+San Bernardino,Ontario,0
+San Bernardino,Rancho Cucamonga,0
+San Bernardino,Redlands,0
+San Bernardino,Rialto,0
+San Bernardino,San Bernardino,0
+San Bernardino,Twentynine Palms,1
+San Bernardino,Upland,0
+San Bernardino,Victorville,0
+San Bernardino,Yucaipa,1
+San Bernardino,Yucca Valley,0
+San Diego,Carlsbad,1
+San Diego,Chula Vista,1
+San Diego,Coronado,0
+San Diego,Del Mar,0
+San Diego,El Cajon,0
+San Diego,Encinitas,0
+San Diego,Escondido,1
+San Diego,Imperial Beach,0
+San Diego,La Mesa,0
+San Diego,Lemon Grove,0
+San Diego,National City,1
+San Diego,Oceanside,0
+San Diego,Poway,0
+San Diego,San Diego,0
+San Diego,San Marcos,0
+San Diego,Santee,0
+San Diego,Solana Beach,1
+San Diego,Vista,1
+San Francisco,San Francisco,1
+San Joaquin,Escalon,1
+San Joaquin,Lathrop,0
+San Joaquin,Lodi,0
+San Joaquin,Manteca,0
+San Joaquin,Ripon,1
+San Joaquin,Stockton,1
+San Joaquin,Tracy,0
+San Luis Obispo,Arroyo Grande,0
+San Luis Obispo,Atascadero,0
+San Luis Obispo,Paso Robles,0
+San Luis Obispo,Grover Beach,0
+San Luis Obispo,Morro Bay,0
+San Luis Obispo,Pismo Beach,0
+San Luis Obispo,San Luis Obispo,1
+San Mateo,Atherton,0
+San Mateo,Belmont,1
+San Mateo,Brisbane,0
+San Mateo,Burlingame,0
+San Mateo,Colma,0
+San Mateo,Daly City,1
+San Mateo,East Palo Alto,1
+San Mateo,Foster City,0
+San Mateo,Half Moon Bay,0
+San Mateo,Hillsborough,0
+San Mateo,Menlo Park,1
+San Mateo,Millbrae,0
+San Mateo,Pacifica,1
+San Mateo,Portola Valley,0
+San Mateo,Redwood City,1
+San Mateo,San Bruno,0
+San Mateo,San Carlos,1
+San Mateo,San Mateo,1
+San Mateo,South San Francisco,1
+San Mateo,Woodside,0
+Santa Barbara,Buellton,0
+Santa Barbara,Carpinteria,0
+Santa Barbara,Goleta,0
+Santa Barbara,Guadalupe,0
+Santa Barbara,Lompoc,0
+Santa Barbara,Santa Barbara,0
+Santa Barbara,Santa Maria,0
+Santa Barbara,Solvang,0
+Santa Clara,Campbell,0
+Santa Clara,Cupertino,1
+Santa Clara,Gilroy,1
+Santa Clara,Los Altos,0
+Santa Clara,Los Altos Hills,0
+Santa Clara,Los Gatos,0
+Santa Clara,Milpitas,0
+Santa Clara,Monte Sereno,0
+Santa Clara,Morgan Hill,0
+Santa Clara,Mountain View,1
+Santa Clara,Palo Alto,1
+Santa Clara,San Jose,1
+Santa Clara,Santa Clara,1
+Santa Clara,Saratoga,0
+Santa Clara,Sunnyvale,0
+Santa Cruz,Capitola,0
+Santa Cruz,Santa Cruz,1
+Santa Cruz,Scotts Valley,0
+Santa Cruz,Watsonville,1
+Shasta,Anderson,1
+Shasta,Redding,0
+Shasta,Shasta Lake,0
+Sierra,Loyalton,0
+Siskiyou,Dorris,0
+Siskiyou,Dunsmuir,0
+Siskiyou,Etna,0
+Siskiyou,Fort Jones,0
+Siskiyou,Montague,0
+Siskiyou,Mount Shasta,0
+Siskiyou,Tulelake,0
+Siskiyou,Weed,0
+Siskiyou,Yreka,0
+Solano,Benicia,1
+Solano,Dixon,1
+Solano,Fairfield,0
+Solano,Rio Vista,0
+Solano,Suisun City,0
+Solano,Vacaville,0
+Solano,Vallejo,1
+Sonoma,Cloverdale,0
+Sonoma,Cotati,0
+Sonoma,Healdsburg,1
+Sonoma,Petaluma,1
+Sonoma,Rohnert Park,0
+Sonoma,Santa Rosa,1
+Sonoma,Sebastopol,1
+Sonoma,Sonoma,1
+Sonoma,Windsor,1
+Stanislaus,Ceres,0
+Stanislaus,Hughson,0
+Stanislaus,Modesto,0
+Stanislaus,Newman,0
+Stanislaus,Oakdale,0
+Stanislaus,Patterson,0
+Stanislaus,Riverbank,0
+Stanislaus,Turlock,0
+Stanislaus,Waterford,1
+Sutter,Live Oak,0
+Sutter,Yuba City,1
+Tehama,Corning,0
+Tehama,Red Bluff,0
+Tehama,Tehama,0
+Tulare,Dinuba,0
+Tulare,Exeter,0
+Tulare,Farmersville,0
+Tulare,Lindsay,0
+Tulare,Porterville,0
+Tulare,Tulare,0
+Tulare,Visalia,0
+Tulare,Woodlake,0
+Tuolumne,Sonora,0
+Ventura,Camarillo,0
+Ventura,Fillmore,0
+Ventura,Moorpark,0
+Ventura,Ojai,0
+Ventura,Oxnard,1
+Ventura,Port Hueneme,0
+Ventura,Santa Paula,0
+Ventura,Simi Valley,0
+Ventura,Thousand Oaks,0
+Ventura,Ventura,0
+Yolo,Davis,1
+Yolo,West Sacramento,0
+Yolo,Winters,0
+Yolo,Woodland,1
+Yuba,Marysville,0
+Yuba,Wheatland,0
